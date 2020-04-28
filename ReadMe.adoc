@@ -1,9 +1,8 @@
 :Author: rahularepaka
 :Email: rahul.arepaka@gmail.com
 
-== Project:ALCOHOL DETECTION WITH ENGINE LOCK MECHANISM
+== Project : ALCOHOL DETECTION WITH ENGINE LOCK MECHANISM
 
-Describe your project
 We usually come across drink and driving cases where drunk drivers
 crash their cars under the influence of alcohol causing damage to
 property and life. So here we propose an innovative system to
