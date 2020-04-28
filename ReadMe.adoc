@@ -39,7 +39,7 @@ stops the engine so that the car would not accelerate any further and driver
 can steer it to roadside. So, the alcohol sensor is used to monitor uses
 breath and constantly sends signals to the microcontroller.
 
-==Parts Used : 
+== Parts Used : 
 1.Arduino UNO
 2.Breadboard
 3.12V PC Fan to represent a Engine
