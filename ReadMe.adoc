@@ -65,7 +65,7 @@ breath and constantly sends signals to the microcontroller.
 Assemble the circuit following the diagram attached to the sketch.
 Note : This is only connection for the Sensor and Relay to the Arduino UNO.
 
- ![](https://raw.githubusercontent.com/rahularepaka/arduino_Alcoholdetection/master/l.JPG)
+![arduino_Alcoholdetection](https://raw.githubusercontent.com/rahularepaka/arduino_Alcoholdetection/master/l.JPG)
 
 
 == Step 3: Load the code
