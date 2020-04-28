@@ -1,8 +1,9 @@
 :Author: rahularepaka
 :Email: rahul.arepaka@gmail.com
 
-== Project : ALCOHOL DETECTION WITH ENGINE LOCK MECHANISM
+== Project : Alcohol Detection with Engine Lock Mechanism
 
+== Overview of the Project
 We usually come across drink and driving cases where drunk drivers
 crash their cars under the influence of alcohol causing damage to
 property and life. So here we propose an innovative system to
@@ -38,17 +39,20 @@ stops the engine so that the car would not accelerate any further and driver
 can steer it to roadside. So, the alcohol sensor is used to monitor uses
 breath and constantly sends signals to the microcontroller.
 
-== Parts Used : 
-1.Arduino UNO
-2.Breadboard
-3.12V PC Fan to represent a Engine
-4.Power Supply or Batteries
-5.Alcohol Sensor MQ3
-6.Arduino UNO USB cable
-7.Jumper Cables M/M and M/F
-8.LED's
-9.Relay
-10.Buzzer
+== Parts Used :
+....
+ Parts Used in this Project                
+  ├── Arduino UNO       
+  └── Breadboard  
+  └── 12V PC Fan to represent a Engine
+  └── Power Supply or Batteries
+  └── Alcohol Sensor MQ3
+  └── Arduino UNO USB cable
+  └── Jumper Cables M/M and M/F
+  └── LED's
+  └── Relay
+  └── Buzzer              
+....
 
 == Step 1: Installation
 
@@ -61,7 +65,7 @@ breath and constantly sends signals to the microcontroller.
 Assemble the circuit following the diagram attached to the sketch.
 Note : This is only connection for the Sensor and Relay to the Arduino UNO.
 
-![circuit diagram](D:\Pictures)
+![circuit diagram](images/circuit.png)
 
 
 == Step 3: Load the code
