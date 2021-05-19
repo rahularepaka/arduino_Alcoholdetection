@@ -65,8 +65,6 @@ breath and constantly sends signals to the microcontroller.
 Assemble the circuit following the diagram attached to the sketch.
 Note : This is only connection for the Sensor and Relay to the Arduino UNO.
 
-![l](https://user-images.githubusercontent.com/10435564/80459066-de618000-8942-11ea-9a18-5b7c6566901b.JPG)
-
 == Step 3: Load the code
 
 Upload the code contained in this sketch on to your board
