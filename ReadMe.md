@@ -44,6 +44,8 @@ So, the alcohol sensor is used to monitor uses breath and constantly sends signa
 
 # Circuit Diagram
 
+https://github.com/rahularepaka/arduino_Alcoholdetection/blob/master/l.JPG?raw=true
+
 
 
 # Folder structure 📂
