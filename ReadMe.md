@@ -42,7 +42,8 @@ So, the alcohol sensor is used to monitor uses breath and constantly sends signa
   └── Buzzer              
 ```
 
-# Circuit Diagram
+# Circuit Diagram 🧑‍🔧
+![image](https://user-images.githubusercontent.com/10435564/128292042-85558aa3-0c41-4113-aea3-f665f88875ed.png)
 
 
 # Folder structure 📂
